@@ -1,0 +1,9 @@
+2024-06-21 12:00:00 INFO Starting server...
+2024-06-21 12:01:00 ERROR Connection failed: timeout
+2024-06-21 12:02:00 WARNING High memory usage
+2024-06-21 12:03:00 ERROR Failed to load configuration
+2024-06-21 12:04:00 INFO Server running
+2024-06-21 12:05:00 EXCEPTION NullPointerException at com.example.Main
+2024-06-21 12:06:00 INFO Connection established
+2024-06-21 12:07:00 ERROR Disk space low
+2024-06-21 12:17:00 ERROR Disk space low
