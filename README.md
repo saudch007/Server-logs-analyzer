@@ -42,11 +42,4 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-### Note:
-- Replace `[example_report.png]` with an actual screenshot of your generated PDF report or any example visualization from your project.
-- Adjust the installation and usage instructions based on your project's structure and requirements.
-- Ensure to update the LICENSE file with your preferred license terms.
-
-This README.md provides a clear overview of the LogMetrics project, its features, installation instructions, usage guidelines, and information on contributing and licensing. Adjust it further to match any specific details or additional functionalities your project may have.
